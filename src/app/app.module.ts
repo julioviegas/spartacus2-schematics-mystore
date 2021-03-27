@@ -15,7 +15,8 @@ import { B2cStorefrontModule } from "@spartacus/storefront";
     B2cStorefrontModule.withConfig({
       backend: {
         occ: {
-          baseUrl: "https://spartacus-demo.eastus.cloudapp.azure.com/",
+          baseUrl:
+            "https://api.cijd699-trainings2-p1-public.model-t.cc.commerce.ondemand.com",
           prefix: "/occ/v2/"
         }
       },
