@@ -16,7 +16,7 @@ import { B2cStorefrontModule } from "@spartacus/storefront";
       backend: {
         occ: {
           baseUrl: "https://spartacus-demo.eastus.cloudapp.azure.com/",
-          prefix: "/rest/v2/"
+          prefix: "/occ/v2/"
         }
       },
       context: {
